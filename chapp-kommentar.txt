@@ -1,0 +1,5 @@
+Ved testing av kjøring av broker på en maskin, og la andre gruppemedlemmer
+kjøre Chapp klient på sin maskin, så fikk vi ikke dette til å fungere.
+
+Vi har testet ulike porter, og sjekket opp i om portene er blokkert
+av brannmur, uten hell. 
